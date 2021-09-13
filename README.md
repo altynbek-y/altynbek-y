@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nami Augustine
 - 👀 I’m interested in: Data Science, ML, App development and Mathematics, GameDev
-- 🌱 I’m currently learning: Python Fata Science
+- 🌱 I’m currently learning: Python Data Science and GameDev with Godot Engine
 - 💞️ I’m looking to collaborate on: GitHub, etc
 - 📫 How to reach me: nami_augustine in Telegram
 
